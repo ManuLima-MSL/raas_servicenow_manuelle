@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="INSERT_OR_UPDATE">
+        <list>x_1593183_raas_m2m_director_media.x_1593183_raas_media</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-10 23:04:48</sys_created_on>
+        <sys_id>fba56f4983079210889d5e20ceaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1593183_raas_m2m_director_media.x_1593183_raas_media</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_fba56f4983079210889d5e20ceaad3a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-10 23:04:48</sys_updated_on>
+        <ui_policy display_value="Hide Actors and Directors when Integration state is &quot;Media Not Found&quot;">6925a34983079210889d5e20ceaad391</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+</record_update>
