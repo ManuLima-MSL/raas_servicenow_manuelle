@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Activate/Deactivate OMDB Integration&#13;
+</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1593183_raas.integration_active</name>
+        <read_roles/>
+        <suffix>integration_active</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-09 18:13:26</sys_created_on>
+        <sys_id>75291d3883871210889d5e20ceaad3b5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_1593183_raas.integration_active</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>sys_properties_75291d3883871210889d5e20ceaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-09 18:15:14</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=75291d3883871210889d5e20ceaad3b5"/>
+</record_update>

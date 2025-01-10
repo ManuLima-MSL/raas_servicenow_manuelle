@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="RaaS">e3f5513883871210889d5e20ceaad35f</category>
+        <order>400</order>
+        <property display_value="x_1593183_raas.integration_plot" name="x_1593183_raas.integration_plot">7389d5f883871210889d5e20ceaad3ba</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-09 18:21:02</sys_created_on>
+        <sys_id>7f2b95bc83871210889d5e20ceaad3ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1593183_raas.integration_plot.RaaS</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7f2b95bc83871210889d5e20ceaad3ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-09 18:21:02</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
