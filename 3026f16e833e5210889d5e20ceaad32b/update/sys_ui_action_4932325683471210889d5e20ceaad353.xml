@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments/>
-        <condition>current.state == 1;</condition>
+        <condition>current.state == 1 &amp;&amp; current.integration_state == 3;</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -34,7 +34,7 @@
     g_form.setValue("state", "3");
 	g_form.save();
 }]]></script>
-        <show_insert>true</show_insert>
+        <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
         <show_update>true</show_update>
@@ -44,7 +44,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4932325683471210889d5e20ceaad353</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Set Completed</sys_name>
         <sys_overrides/>
         <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
@@ -52,7 +52,7 @@
         <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
         <sys_update_name>sys_ui_action_4932325683471210889d5e20ceaad353</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-14 17:03:47</sys_updated_on>
+        <sys_updated_on>2025-01-14 20:33:18</sys_updated_on>
         <table>x_1593183_raas_media</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
