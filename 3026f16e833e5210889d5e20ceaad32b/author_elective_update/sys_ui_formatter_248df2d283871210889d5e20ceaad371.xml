@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>media_lifecycle.xml</formatter>
+        <name>Media Lifecycle</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:22:34</sys_created_on>
+        <sys_id>248df2d283871210889d5e20ceaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Media Lifecycle</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>sys_ui_formatter_248df2d283871210889d5e20ceaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:22:34</sys_updated_on>
+        <table>x_1593183_raas_media</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</application>
+        <file_path/>
+        <instance_id>f5cdcc2bdbb84e98ebdd2a5913961933</instance_id>
+        <instance_name>dev241981</instance_name>
+        <name>sys_ui_formatter_248df2d283871210889d5e20ceaad371</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>media_lifecycle.xml</formatter><name>Media Lifecycle</name><seismic_component/><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 17:22:34</sys_created_on><sys_id>248df2d283871210889d5e20ceaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Media Lifecycle</sys_name><sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package><sys_policy/><sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope><sys_update_name>sys_ui_formatter_248df2d283871210889d5e20ceaad371</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 17:22:34</sys_updated_on><table>x_1593183_raas_media</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>-178116379</payload_hash>
+        <record_name>Media Lifecycle</record_name>
+        <reverted_from/>
+        <source>94c9b8b383721210889d5e20ceaad316</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:22:34</sys_created_on>
+        <sys_id>84cd7a9283871210889d5e20ceaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19465d6a8b00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:22:34</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>88cd7a9286871210905e4607067de21b</update_guid>
+        <update_guid_history>88cd7a9286871210905e4607067de21b:-178116379</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 18:23:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>48790380fe2b494ebd3aa79152501244</sys_id>
+        <sys_metadata>248df2d283871210889d5e20ceaad371</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Media Lifecycle</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_parent display_value="Media">870a25ba83be9210889d5e20ceaad3de</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_scope_delete display_value="">b0a26cc0fdfb48209beb3d36fe2c9cc4</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_248df2d283871210889d5e20ceaad371</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_248df2d283871210889d5e20ceaad371">84cd7a9283871210889d5e20ceaad31c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 18:23:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
