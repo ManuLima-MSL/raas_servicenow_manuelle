@@ -2,7 +2,7 @@
     <sys_ui_list_control action="INSERT_OR_UPDATE">
         <columns_condition/>
         <disable_nlq>false</disable_nlq>
-        <edit_condition><![CDATA[if (parent.state.toString() == "3" && parent.integration_state.toString() == "4" || parent.integration_state.toString() == "7"){
+        <edit_condition><![CDATA[if (parent.state.toString() == "3" || parent.state.toString() == "7" && parent.integration_state.toString() == "4" || parent.integration_state.toString() == "7"){
 	answer = true;
 } else {
 	answer = false;
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>357217a283831210889d5e20ceaad3a0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_1593183_raas_media</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
         <sys_update_name>sys_ui_list_control_357217a283831210889d5e20ceaad3a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-15 13:47:51</sys_updated_on>
+        <sys_updated_on>2025-01-15 18:26:55</sys_updated_on>
     </sys_ui_list_control>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>357217a283831210889d5e20ceaad3a0</id>
