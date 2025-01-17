@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="RaaS DashBoard">2904e21783cf5210889d5e20ceaad3c7</dashboard>
+        <name>Media</name>
+        <order>2</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 19:22:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0bf532db83039210889d5e20ceaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Media</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>par_dashboard_tab_0bf532db83039210889d5e20ceaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 19:22:34</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>
