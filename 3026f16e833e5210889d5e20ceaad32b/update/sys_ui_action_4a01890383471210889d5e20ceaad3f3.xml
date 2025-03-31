@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments/>
-        <condition>current.integration_state.toString() == "4";</condition>
+        <condition>current.integration_state.toString() == "4" ;</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -45,7 +45,7 @@ action.setRedirectURL(current);]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a01890383471210889d5e20ceaad3f3</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Reintegrate Media</sys_name>
         <sys_overrides/>
         <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
@@ -53,7 +53,7 @@ action.setRedirectURL(current);]]></script>
         <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
         <sys_update_name>sys_ui_action_4a01890383471210889d5e20ceaad3f3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-16 18:11:13</sys_updated_on>
+        <sys_updated_on>2025-02-28 18:10:16</sys_updated_on>
         <table>x_1593183_raas_media</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="report_user" name="report_user">7a84a7458720130032a03a5ea6cb0b1d</contains>
+        <role display_value="x_1593183_reembo_0.hr_resolver" name="x_1593183_reembo_0.hr_resolver">082b099883931210889d5e20ceaad39b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-24 13:09:39</sys_created_on>
+        <sys_id>78c3a96983531210889d5e20ceaad329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>report_user.x_1593183_reembo_0.hr_resolver</sys_name>
+        <sys_package display_value="RaaS - Manuelle" source="x_1593183_raas">3026f16e833e5210889d5e20ceaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Manuelle">3026f16e833e5210889d5e20ceaad32b</sys_scope>
+        <sys_update_name>sys_user_role_contains_78c3a96983531210889d5e20ceaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-24 13:09:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
